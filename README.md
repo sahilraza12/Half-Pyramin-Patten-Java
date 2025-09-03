@@ -1,1 +1,1 @@
-# Half-Pyramind-Patten-Java
+# Half-Pyramind-Pattern-Java
